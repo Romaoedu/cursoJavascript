@@ -18,3 +18,4 @@ const somaNumerosPequenos = (num1, num2) =>{
     }
 }
 console.log(somaNumerosPequenos(9,3));
+somaNumerosPequenos.call(1,1)
